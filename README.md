@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @renattof
-- 👀 I’m interested in ... SQL SERVER
-- 🌱 I’m currently learning ... Tuning Queries / Perfomance
-- 💞️ I’m looking to collaborate on ... SQL SERVER COMMUNITY
+- 👀 I’m interested in ... Automation / AI / PY
+- 🌱 I’m currently learning ... Python.
 - 📫 How to reach me ...renattof
 
 <!---
